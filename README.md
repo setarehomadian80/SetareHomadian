@@ -13,9 +13,8 @@ Currently learning and working with **HTML5**, **CSS3**, **JavaScript**, **React
 ## 🚀 Let's Dive into the Code World!
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=60" alt="Coding Desk" width="600"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="600"/>
 </div>
-
 ---
 
 ## 📍 About Me
