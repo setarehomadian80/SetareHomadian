@@ -12,8 +12,9 @@ Currently learning and working with **HTML5**, **CSS3**, **JavaScript**, **React
 
 ## 🚀 Let's Dive into the Code World!
 
+
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding Animation" width="600"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding Animation" width="600"/>
 </div>
 ---
 
